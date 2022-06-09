@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T14:16:14 PDT" name="Default suite" finished-at="2022-06-09T14:16:35 PDT" duration-ms="21140">
+    <groups>
+    </groups>
+    <test started-at="2022-06-09T14:16:14 PDT" name="Default test" finished-at="2022-06-09T14:16:35 PDT" duration-ms="21140">
+      <class name="com.test.TekarchAPITests">
+        <test-method signature="createUsers()[pri:1, instance:com.test.TekarchAPITests@49b0b76]" started-at="2022-06-09T14:16:14 PDT" name="createUsers" finished-at="2022-06-09T14:16:19 PDT" duration-ms="5231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsers -->
+        <test-method signature="getUsers()[pri:2, instance:com.test.TekarchAPITests@49b0b76]" started-at="2022-06-09T14:16:19 PDT" name="getUsers" finished-at="2022-06-09T14:16:27 PDT" duration-ms="7574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+        <test-method signature="updateUsers()[pri:3, instance:com.test.TekarchAPITests@49b0b76]" started-at="2022-06-09T14:16:27 PDT" name="updateUsers" finished-at="2022-06-09T14:16:32 PDT" duration-ms="5215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUsers -->
+        <test-method signature="deleteUsers()[pri:4, instance:com.test.TekarchAPITests@49b0b76]" started-at="2022-06-09T14:16:32 PDT" name="deleteUsers" finished-at="2022-06-09T14:16:35 PDT" duration-ms="3046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUsers -->
+      </class> <!-- com.test.TekarchAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
